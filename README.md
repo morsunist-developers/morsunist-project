@@ -5,6 +5,8 @@
 [![Discord Badge](https://discordapp.com/api/guilds/449922196584923138/widget.png)](https://discord.gg/GdsbWnd)
 [![Build Status](https://travis-ci.com/Kerakso/morsunist-project.svg?token=hKCFqNNuY7YSWVqx8GFy&branch=master)](https://morsunist-developers.github.io/)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/morsunist-project/localized.svg)](https://crowdin.com/project/morsunist-project)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 
 ## Support
 
