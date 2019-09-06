@@ -13,4 +13,4 @@
 [Official Server](https://discord.gg/GdsbWnd)
 [Website](https://morsunist-developers.github.io/)
 
-[![Morsunist Government](https://img.shields.io/badge/accepted%20by-morsunist%20government%20%F0%9F%92%9A-green.svg?style=for-the-badge)](https://github.com/morsunist-developers/)
+[![Morsunist Government](https://img.shields.io/badge/accepted%20by-morsunist%20government%20%F0%9F%92%9A-2C2F33.svg?style=for-the-badge)](https://github.com/morsunist-developers/)
